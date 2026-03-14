@@ -6,6 +6,9 @@ A streamlined and practical **European-style Roulette Wheel** built with **Flutt
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id6752650495)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/AwOPo1imTac/0.jpg)](https://www.youtube.com/watch?v=AwOPo1imTac)
+
 ## 🌟 Key Features
 - **Authentic European Layout:** Features the classic 37-pocket configuration (0 and numbers 1-36).
 - **Minimalist Design:** Focuses purely on the wheel functionality for a fast, focused, and distraction-free experience.
